@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{45354F9F-BBC8-4935-BDDA-55A01E96B9A9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Variables_operaciones.numeraciones</StartupObject>
+    <StartupObject>Variables_operaciones._1_12_math</StartupObject>
     <RootNamespace>Variables_operaciones</RootNamespace>
     <AssemblyName>Variables_operaciones</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -68,19 +68,20 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="aritmetica.vb" />
-    <Compile Include="arma_fecha.vb" />
-    <Compile Include="calc_intereses.vb" />
-    <Compile Include="concatenacion.vb" />
-    <Compile Include="Date_.vb" />
-    <Compile Include="ecuacion.vb" />
-    <Compile Include="mayor.vb" />
-    <Compile Include="media.vb" />
-    <Compile Include="numeraciones.vb" />
-    <Compile Include="semanas.vb" />
-    <Compile Include="suma_fecha.vb" />
-    <Compile Include="tablas_de_verdad.vb" />
-    <Compile Include="variables.vb" />
+    <Compile Include="1_05_aritmetica.vb" />
+    <Compile Include="1_12_math.vb" />
+    <Compile Include="1_15_arma_fecha.vb" />
+    <Compile Include="1_10_calc_intereses.vb" />
+    <Compile Include="1_04_concatenacion.vb" />
+    <Compile Include="1_14_Date.vb" />
+    <Compile Include="1_06_ecuacion.vb" />
+    <Compile Include="1_13_mayor.vb" />
+    <Compile Include="1_07_media.vb" />
+    <Compile Include="1_17_numeraciones.vb" />
+    <Compile Include="1_08_semanas.vb" />
+    <Compile Include="1_16_suma_fecha.vb" />
+    <Compile Include="1_09_tablas_de_verdad.vb" />
+    <Compile Include="1_01_variables.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -96,7 +97,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="v_absoluto.vb" />
+    <Compile Include="1_11_v_absoluto.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

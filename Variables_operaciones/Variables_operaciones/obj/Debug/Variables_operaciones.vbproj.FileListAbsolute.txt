@@ -8,3 +8,14 @@ C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\bi
 C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.exe
 C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.xml
 C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.pdb
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.exe.config
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.exe
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.pdb
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.xml
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.vbprojResolveAssemblyReference.cache
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.Resources.resources
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.vbproj.GenerateResource.cache
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.vbproj.CoreCompileInputs.cache
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.exe
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.xml
+F:\programacion\Visual Basic\pg2-tp201-variables-operaciones-GzaloBarthe\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.pdb
