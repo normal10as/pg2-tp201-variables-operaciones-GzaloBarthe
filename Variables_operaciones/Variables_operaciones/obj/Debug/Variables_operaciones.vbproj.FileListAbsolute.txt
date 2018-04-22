@@ -1,0 +1,10 @@
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.Resources.resources
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.vbproj.GenerateResource.cache
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.vbproj.CoreCompileInputs.cache
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.exe.config
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.exe
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.pdb
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.xml
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.exe
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.xml
+C:\Users\Super Gzalo\source\repos\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.pdb
